@@ -1,0 +1,64 @@
+body {
+    background-image: url("paris-metro.jpg");
+    background-size: cover;
+    font-family: 'Open Sans', 'Helvetica Neue', sans-serif;
+    text-align: center;
+    height: 100vh;
+    display: flex;
+}
+
+.container {
+    background: white;
+    max-width: 80%;
+    margin: auto;
+    padding: 1em;
+    border: 3px solid black;
+    border-radius: 10px;
+    box-shadow: 0px 0px 20px black;
+}
+
+h1 {
+    margin-top: 0px;
+    margin-bottom: 10px;
+    font-size: 2em;
+}
+
+h2 {
+    margin-top: 0;
+    margin-bottom: 20px;
+    font-size: 1.7em;
+}
+h3 {
+    margin-top: 0px;
+    margin-bottom: 10px;
+    font-size: 2.5em;
+}
+
+h3 {
+    margin-top: 0;
+    margin-bottom: 20px;
+}
+
+button {
+    border: 1px solid black;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+    font-weight: bold;
+    width: 200px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+}
+
+#increment-btn {
+    background: #2C2891;
+}
+
+#save-btn {
+    background: #1C7947;
+}
+
+#save-el {
+    font-weight: bold;
+}
+
