@@ -1,4 +1,4 @@
-# cMLr3asK
+# Paris metro passenger counter app
 
 Quick start:
 
